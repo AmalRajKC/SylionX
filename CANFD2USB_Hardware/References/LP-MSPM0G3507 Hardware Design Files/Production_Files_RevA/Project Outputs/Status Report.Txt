@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:33:43 AM On 2/14/2023
+
+Output: Save As/Export PCB
+Type  : Universal Exporter
+From  : PCB Document [MCU098_MSPM0G3507_PCB.PcbDoc]
+   Generated File[MCU098_MSPM0G3507_PCB_ASCII.PcbDoc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:33:48 AM On 2/14/2023

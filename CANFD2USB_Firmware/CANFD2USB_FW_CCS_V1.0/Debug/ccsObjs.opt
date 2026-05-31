@@ -1,0 +1,9 @@
+"./CANFD2USB_FW_CCS_V1.0.o"
+"./ti_msp_dl_config.o"
+"./startup_mspm0g350x_gcc.o"
+-Wl,-T"./device_linker.lds"
+-Wl,-Tdevice.lds.genlibs
+-l:driverlib.a
+-lgcc
+-lc
+-lm

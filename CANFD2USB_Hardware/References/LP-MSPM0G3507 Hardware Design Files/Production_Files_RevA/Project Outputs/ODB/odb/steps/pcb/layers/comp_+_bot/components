@@ -1,0 +1,98 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 6 2 1.7 0 N J2/J4 SSQ-110-03-T-D ;0=2,1=0.3402
+PRP Alternate_Manufacturer 'Major League Electronics'
+PRP Alternate_PartNumber 'CRD-081413-A-G'
+PRP ClassName ''
+PRP ComponentLink1Description 'Datasheet Link'
+PRP ComponentLink1URL 'https://www.samtec.com/ftppub/cpdf/SSQ-1XX-XX-XXX-X-XX-XXX-XX-X-MKT.pdf'
+PRP CompType 'Receptacle'
+PRP Green_EU_RoHS 'Passed'
+PRP Green_EU_RoHS-2 'Passed'
+PRP Green_Lifecycle 'Active'
+PRP Green_REACh 'Incomplete'
+PRP Manufacturer 'Samtec'
+PRP MountType 'TH'
+PRP Note 'Booster Pack 40 pin J2 and J4'
+PRP PackageReference '10x2 Receptacle'
+PRP PartNumber 'SSQ-110-03-T-D'
+PRP RoHS 'Y'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Newark'
+PRP Supplier_3 ''
+PRP Supplier_Part_Number_1 'SAM1204-10-ND'
+PRP Supplier_Part_Number_2 '11P8392'
+PRP Supplier_Part_Number_3 ''
+PRP Value ''
+TOP 0 2.05 1.25 90 N 55 0 J2/J4-11
+TOP 1 2.05 1.35 90 N 68 0 J2/J4-12
+TOP 2 2.05 1.45 90 N 64 0 J2/J4-13
+TOP 3 2.05 1.55 90 N 63 0 J2/J4-14
+TOP 4 2.05 1.65 90 N 62 0 J2/J4-15
+TOP 5 2.05 1.75 90 N 182 0 J2/J4-16
+TOP 6 2.05 1.85 90 N 56 0 J2/J4-17
+TOP 7 2.05 1.95 90 N 9 0 J2/J4-18
+TOP 8 2.05 2.05 90 N 59 0 J2/J4-19
+TOP 9 2.05 2.15 90 N 176 52 J2/J4-20
+TOP 10 1.95 1.25 90 N 169 0 J2/J4-31
+TOP 11 1.95 1.35 90 N 168 0 J2/J4-32
+TOP 12 1.95 1.45 90 N 6 0 J2/J4-33
+TOP 13 1.95 1.55 90 N 8 0 J2/J4-34
+TOP 14 1.95 1.65 90 N 58 0 J2/J4-35
+TOP 15 1.95 1.75 90 N 96 0 J2/J4-36
+TOP 16 1.95 1.85 90 N 69 0 J2/J4-37
+TOP 17 1.95 1.95 90 N 72 0 J2/J4-38
+TOP 18 1.95 2.05 90 N 67 0 J2/J4-39
+TOP 19 1.95 2.15 90 N 66 0 J2/J4-40
+#
+# CMP 1
+CMP 5 0.3 1.7 0 N J1/J3 SSQ-110-03-T-D ;0=2,1=0.3402
+PRP Alternate_Manufacturer 'Major League Electronics'
+PRP Alternate_PartNumber 'CRD-081413-A-G'
+PRP ClassName ''
+PRP ComponentLink1Description 'Datasheet Link'
+PRP ComponentLink1URL 'https://www.samtec.com/ftppub/cpdf/SSQ-1XX-XX-XXX-X-XX-XXX-XX-X-MKT.pdf'
+PRP CompType 'Receptacle'
+PRP Green_EU_RoHS 'Passed'
+PRP Green_EU_RoHS-2 'Passed'
+PRP Green_Lifecycle 'Active'
+PRP Green_REACh 'Incomplete'
+PRP Manufacturer 'Samtec'
+PRP MountType 'TH'
+PRP Note 'Booster Pack 40 pin J1 and J3'
+PRP PackageReference '10x2 Receptacle'
+PRP PartNumber 'SSQ-110-03-T-D'
+PRP RoHS 'Y'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Newark'
+PRP Supplier_3 ''
+PRP Supplier_Part_Number_1 'SAM1204-10-ND'
+PRP Supplier_Part_Number_2 '11P8392'
+PRP Supplier_Part_Number_3 ''
+PRP Value ''
+TOP 0 0.25 2.15 90 N 175 6 J1/J3-1
+TOP 1 0.25 2.05 90 N 165 0 J1/J3-2
+TOP 2 0.25 1.95 90 N 84 1 J1/J3-3
+TOP 3 0.25 1.85 90 N 85 0 J1/J3-4
+TOP 4 0.25 1.75 90 N 167 0 J1/J3-5
+TOP 5 0.25 1.65 90 N 164 0 J1/J3-6
+TOP 6 0.25 1.55 90 N 61 0 J1/J3-7
+TOP 7 0.25 1.45 90 N 166 1 J1/J3-8
+TOP 8 0.25 1.35 90 N 150 0 J1/J3-9
+TOP 9 0.25 1.25 90 N 149 0 J1/J3-10
+TOP 10 0.35 2.15 90 N 174 3 J1/J3-21
+TOP 11 0.35 2.05 90 N 176 53 J1/J3-22
+TOP 12 0.35 1.95 90 N 52 0 J1/J3-23
+TOP 13 0.35 1.85 90 N 74 0 J1/J3-24
+TOP 14 0.35 1.75 90 N 54 0 J1/J3-25
+TOP 15 0.35 1.65 90 N 126 0 J1/J3-26
+TOP 16 0.35 1.55 90 N 73 0 J1/J3-27
+TOP 17 0.35 1.45 90 N 77 0 J1/J3-28
+TOP 18 0.35 1.35 90 N 78 1 J1/J3-29
+TOP 19 0.35 1.25 90 N 79 0 J1/J3-30
+#
