@@ -29,8 +29,12 @@ See [docs/quickstart.md](docs/quickstart.md) for build and setup instructions.
 - **Software & Firmware** — [MIT License](LICENSE-MIT.txt)
 - **Hardware** — [CERN Open Hardware Licence v2 - Strongly Reciprocal](LICENSE-CERN-OHL-S-v2.txt)
 
-## Contributing
-Pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+## Issues & Feedback
+Found a bug or have a feature request? 
+[Open an issue](https://github.com/AmalRajKC/SylionX/issues) — all feedback is welcome.
 
+> **Note:** This repository does not accept pull requests at this time.
+> The codebase is open source for transparency and learning — feel free to fork
+> and build your own version.
 ---
 © 2026 SylionX / Amal Raj KC
