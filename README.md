@@ -36,5 +36,11 @@ Found a bug or have a feature request?
 > **Note:** This repository does not accept pull requests at this time.
 > The codebase is open source for transparency and learning — feel free to fork
 > and build your own version.
+
+⚠️ Windows SmartScreen may show a warning on first run.
+Click "More info" → "Run anyway" to proceed.
+This is expected for new unsigned software.
+Source code is fully open — you can build from source if preferred.
+
 ---
 © 2026 SylionX / Amal Raj KC
